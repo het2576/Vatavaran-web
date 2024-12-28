@@ -60,4 +60,16 @@ fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_
   .then(data => {
     // Process the weather data here
   });
+```
+###Contact
+Created by me (HET LIMBACHIYA). Feel free to reach out for any questions or collaboration ideas!
 
+
+### Steps to Follow:
+1. Replace the placeholder `YOUR_API_KEY` in your JavaScript code with your actual API key.
+2. Replace the `Live Demo` links with the actual deployment link if available.
+3. Update the `Contact` section with your GitHub username or personal details.
+
+Let me know if you'd like more tweaks! 😊
+
+THANK YOU..;)
