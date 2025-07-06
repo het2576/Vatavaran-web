@@ -61,7 +61,7 @@ fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_
     // Process the weather data here
   });
 ```
-###Contact
+### Contact
 Created by me (HET LIMBACHIYA). Feel free to reach out for any questions or collaboration ideas!
 
 
